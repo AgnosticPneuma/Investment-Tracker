@@ -14,7 +14,7 @@ const details = ({title}) => {
                 {/* <Doughnut data="DATA"></Doughnut> */}
             </CardContent>
         </Card>
-        
+         
     )
 }
 else if( title==='Small Cap Holdings'){
